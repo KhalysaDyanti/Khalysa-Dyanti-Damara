@@ -1,3 +1,5 @@
+![header](https://PERKENALAN.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+
 ### Halo teman-teman 👋
 * 👂 Nama saya Khalysa Dyanti Damara
 * 👩 Panggilan saya "Khalysa"
@@ -7,4 +9,3 @@
 * 🤔 Saya sangat suka tantangan dan bekerja di bawah tekanan
 * ⚡ Fakta unik tentang saya : Saya dapat mengingat detail penting yang ada disekitar
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
