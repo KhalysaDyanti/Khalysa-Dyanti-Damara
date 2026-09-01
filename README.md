@@ -6,4 +6,5 @@
 * 🤝 Sekarang saya sedang mengikuti Kegiatan Bootcamp
 * 🤔 Saya sangat suka tantangan dan bekerja di bawah tekanan
 * ⚡ Fakta unik tentang saya : Saya dapat mengingat detail penting yang ada disekitar
-https://github.com/anuraghazra/github-readme-stats.git
+
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
