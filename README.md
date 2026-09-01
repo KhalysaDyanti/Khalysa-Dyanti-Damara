@@ -7,4 +7,4 @@
 * 🤔 Saya sangat suka tantangan dan bekerja di bawah tekanan
 * ⚡ Fakta unik tentang saya : Saya dapat mengingat detail penting yang ada disekitar
 
-+ https://github-stats-extended.vercel.app/api?username=KhalysaDyanti&theme=radical
+[![Khalysa's GitHub stats](https://github-stats-extended.vercel.app/api?username=KhalysaDyanti&theme=radical)](https://github.com/stats-organization/github-stats-extended)
