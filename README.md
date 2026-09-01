@@ -14,6 +14,8 @@
 ![](https://streak-stats.demolab.com/?user=KhalysaDyanti&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=KhalysaDyanti&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+[![KOREAN STREET FOOD #03](https://ytcards.demolab.com/?id=Wjj21p3tvcg&title=KOREAN+STREET+FOOD+#03 &lang=en&timestamp=1636628400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=436 "KOREAN STREET FOOD #03")](https://youtu.be/SkxZev4I5SM?si=B2dwM1AqDb-FsWkw)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
