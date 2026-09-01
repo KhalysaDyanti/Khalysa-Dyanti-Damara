@@ -6,5 +6,6 @@
 * 🤝 Sekarang saya sedang mengikuti Kegiatan Bootcamp
 * 🤔 Saya sangat suka tantangan dan bekerja di bawah tekanan
 * ⚡ Fakta unik tentang saya : Saya dapat mengingat detail penting yang ada disekitar
+* 📱 Sosial Media saya : [Instagram](https://www.instagram.com/khalyss_104/)
 
 [![Khalysa's GitHub stats](https://github-stats-extended.vercel.app/api?username=KhalysaDyanti&theme=radical)](https://github.com/stats-organization/github-stats-extended)
