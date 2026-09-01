@@ -4,6 +4,9 @@
 * 👩🏻‍🎓 Studying in the [Informatics Program](https://informatika.untan.ac.id/)
 * 🎉 I'm currently participating in [HMIF Untan Bootcamp II](https://hmif.informatika.untan.ac.id/bootcamp)
 
+
+
+
 ## 🌐 Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/19MdN7MQkr/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/khalyss_104/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@http://www.youtube.com/@khalysadyanti4363) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:khalysadd@gmail.com) 
 
